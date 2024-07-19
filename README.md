@@ -1,1 +1,2 @@
 # Tools-of-the-Trade-Linux-and-SQL
+ In this course, I have explored computing skills that I will use on-the-job as a cybersecurity analyst. First, I practiced using Linux operating system commonly used by cybersecurity professionals. Used the Linux command line through the Bash shell to navigate and manage the file system and authenticate users. Then, I have used SQL to communicate with a database. 
