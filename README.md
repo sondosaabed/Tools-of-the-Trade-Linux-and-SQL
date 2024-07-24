@@ -24,3 +24,6 @@ Introduced to Linux commands as entered through the Bash shell. Used the Bash sh
 
 ### Module 4: Databases and SQL
 Practice using SQL to communicate with databases. Learned how to query a database and filter the results. Also learned how SQL can join multiple tables together in a query.
+
+## Course Certificate
+![image](https://github.com/user-attachments/assets/1983f28e-b027-4eb4-9540-2c4bd6bc6f2d)
